@@ -8,7 +8,7 @@ To run this project:
 2. Import the project into any IDE
 3. Run a maven clean install and then the Main class under org.tex.assignment package
 
-Sample output:
+**Sample output**
 Enter the 2 strings for comparison - one in each line below:
 2.0.1-alpha+78GTH8
 3.1
